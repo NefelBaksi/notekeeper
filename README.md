@@ -3,10 +3,13 @@ NoteKeeper ist eine einfache und benutzerfreundliche Webanwendung, mit der Benut
 
 # Technologien 👩‍💻
 
-HTML: Struktur und Inhalt der Seite.
-CSS: Layout, Stil und visuelle Gestaltung.
-JavaScript: Verwaltung der Notizen, Hinzufügen, Löschen und Speichern der Daten.
-LocalStorage: Speichert die Notizen im Browser.
+🔸HTML: Struktur und Inhalt der Seite.
+
+🔸CSS: Layout, Stil und visuelle Gestaltung.
+
+🔸JavaScript: Verwaltung der Notizen, Hinzufügen, Löschen und Speichern der Daten.
+
+🔸LocalStorage: Speichert die Notizen im Browser.
 
 
 # Funktionen 📌
